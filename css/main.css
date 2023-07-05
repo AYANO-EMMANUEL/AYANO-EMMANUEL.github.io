@@ -14,4 +14,13 @@
     font-family: Calibri !important;
 }
 
+.slide{
+    width: 80%;
+}
+
+@media (min-width: 992px) {
+    .slide{
+        width: 500px;
+    }
+}
 
